@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="WfiyJ9dH2u4OR" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:langstring>Anatomy Review_Muscles of the Leg_Anterior Compartment</lom:langstring>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicallearningtime>
+<lom:datetime>01:00:00</lom:datetime>
+</lom:typicallearningtime>
+</lom:educational>
+</lom:lom>
+</metadata>
+<organizations default="anatomy_review_muscles_of_the_leg_anterior_compartment_organization">
+<organization identifier="anatomy_review_muscles_of_the_leg_anterior_compartment_organization">
+<title>Anatomy Review_Muscles of the Leg_Anterior Compartment</title>
+<item identifier="C4930B62-3614-4882-B30D-CD1994017049" identifierref="resource">
+<title>Anatomy Review_Muscles of the Leg_</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.png"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.jpg"/>
+<file href="res/data/slide2.js"/>
+<file href="res/data/slide2.css"/>
+<file href="res/data/thmb3.png"/>
+<file href="res/data/slide3.js"/>
+<file href="res/data/slide3.css"/>
+<file href="res/data/thmb4.png"/>
+<file href="res/data/slide4.js"/>
+<file href="res/data/slide4.css"/>
+<file href="res/data/thmb5.png"/>
+<file href="res/data/intr1.js"/>
+<file href="res/data/intr1/fonts/fnt0.woff"/>
+<file href="res/data/intr1/fonts/fnt1.woff"/>
+<file href="res/data/intr1/fonts/fnt2.woff"/>
+<file href="res/data/intr1/images/img-17fe897a9aeae732732296a24a6c688483d6b6bc.png"/>
+<file href="res/data/intr1/images/interaction_bg_0.png"/>
+<file href="res/data/thmb6.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/images/img-98f334598900853de79b9a3c17ba9eeba2f8dca3.jpg"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/thmb7.png"/>
+<file href="res/data/slide7.js"/>
+<file href="res/data/slide7.css"/>
+<file href="res/data/thmb8.png"/>
+<file href="res/data/slide8.js"/>
+<file href="res/data/slide8.css"/>
+<file href="res/data/thmb9.png"/>
+<file href="res/data/slide9.js"/>
+<file href="res/data/slide9.css"/>
+<file href="res/data/thmb10.png"/>
+<file href="res/data/slide10.js"/>
+<file href="res/data/slide10.css"/>
+<file href="res/data/thmb11.png"/>
+<file href="res/data/slide11.js"/>
+<file href="res/data/slide11.css"/>
+<file href="res/data/thmb12.png"/>
+<file href="res/data/quiz2.js"/>
+<file href="res/data/quiz2/fonts/fnt0.woff"/>
+<file href="res/data/quiz2/fonts/fnt1.woff"/>
+<file href="res/data/quiz2/fonts/fnt2.woff"/>
+<file href="res/data/quiz2/fonts/fnt3.woff"/>
+<file href="res/data/quiz2/images/1cae-5fe3-f339-586d.png"/>
+<file href="res/data/quiz2/images/572d-8f80-d568-929b.png"/>
+<file href="res/data/quiz2/images/84c3-6819-27c8-8778.png"/>
+<file href="res/data/quiz2/images/8bd3-a24d-03d2-4649.png"/>
+<file href="res/data/quiz2/images/img-ba92ed326c5e5a04a11548e722be2eee0c3b304a.png"/>
+<file href="res/data/quiz2/images/img-de7fab8c4e2f1a649f2835b2a22a7657b07072be.png"/>
+<file href="res/data/quiz2/images/quiz_bg_1.jpg"/>
+<file href="res/data/sound1.mp3"/>
+<file href="res/data/sound2.mp3"/>
+<file href="res/data/sound3.mp3"/>
+<file href="res/data/sound4.mp3"/>
+<file href="res/data/sound5.mp3"/>
+<file href="res/data/sound6.mp3"/>
+<file href="res/data/sound7.mp3"/>
+<file href="res/data/sound8.mp3"/>
+<file href="res/data/sound9.mp3"/>
+<file href="res/data/sound10.mp3"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/data/intplayer1.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt10.woff"/>
+<file href="res/data/fnt11.woff"/>
+<file href="res/data/fnt12.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/fnt8.woff"/>
+<file href="res/data/fnt9.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img10.png"/>
+<file href="res/data/img11.png"/>
+<file href="res/data/img12.png"/>
+<file href="res/data/img13.png"/>
+<file href="res/data/img14.png"/>
+<file href="res/data/img15.png"/>
+<file href="res/data/img16.png"/>
+<file href="res/data/img17.png"/>
+<file href="res/data/img18.png"/>
+<file href="res/data/img19.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img20.png"/>
+<file href="res/data/img21.gif"/>
+<file href="res/data/img22.png"/>
+<file href="res/data/img23.gif"/>
+<file href="res/data/img24.gif"/>
+<file href="res/data/img25.gif"/>
+<file href="res/data/img26.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img7.png"/>
+<file href="res/data/img8.png"/>
+<file href="res/data/img9.png"/>
+</resource>
+</resources>
+</manifest>
